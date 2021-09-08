@@ -1,0 +1,16 @@
+.p {
+    color: var(--color-black);
+}
+
+
+.small {
+    font-size: 14px;
+}
+
+.middle {
+    font-size: 16px;
+}
+
+.large {
+    font-size: 18px;
+}
